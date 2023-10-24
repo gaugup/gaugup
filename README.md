@@ -8,3 +8,6 @@ Some of the other technical articles that I have contributed on Github are below
 
 ## CI/CD
 - [Bootstrap Github workflows for your python project](https://ggupta2005.hashnode.dev/bootstrap-github-workflows-for-your-python-project)
+
+## Navigating software engineering career
+- [Code review: Best practices for code submitters](https://ggupta2005.hashnode.dev/code-review-best-practices-for-code-submitters)
