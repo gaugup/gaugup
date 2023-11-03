@@ -1,6 +1,6 @@
 I currently work on developing responsible AI tools in open source and Azure Machine Learning. In my spare time I like to write. Some of my writing samples can be found at [Some Simplistic Thinking](https://somesimplisticthinking.blogspot.com/).
 
-Some of the other technical articles that I have contributed on Github are below:-
+Some of the other technical articles that I have written are below:-
 
 ## Python
 - [Optimizing pytest runtime](https://ggupta2005.hashnode.dev/optimizing-test-runtime-using-pytest)
@@ -10,8 +10,13 @@ Some of the other technical articles that I have contributed on Github are below
 - [Bootstrap Github workflows for your python project](https://ggupta2005.hashnode.dev/bootstrap-github-workflows-for-your-python-project)
 - [Github status badges for Python projects](https://ggupta2005.hashnode.dev/github-status-badges-for-python-projects)
 
+## Software Design and Architecture
+- [Knowing the data in designing software systems](https://ggupta2005.hashnode.dev/knowing-the-data-in-designing-software-systems)
+
 ## Navigating software engineering career
 - [Code review: Best practices for code submitters](https://ggupta2005.hashnode.dev/code-review-best-practices-for-code-submitters)
 
-## Software Design and Architecture
-- [Knowing the data in designing software systems](https://ggupta2005.hashnode.dev/knowing-the-data-in-designing-software-systems)
+## Interviews
+- [Hiring right candidates in software engineering roles](https://ggupta2005.hashnode.dev/hiring-right-candidates-in-software-engineering-roles)
+- [Interviewee Experiences: What to do and what not to do?](https://ggupta2005.hashnode.dev/interviewee-experiences-what-to-do-and-what-not-to-do)
+- [Interviewer Experiences: What to do and what not to do?](https://ggupta2005.hashnode.dev/interviewer-experiences-what-to-do-and-what-not-to-do)
