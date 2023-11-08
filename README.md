@@ -5,6 +5,8 @@ Some of the other technical articles that I have written are below:-
 ## Python
 - [Optimizing pytest runtime](https://ggupta2005.hashnode.dev/optimizing-test-runtime-using-pytest)
 - [Different ways of getting python version](https://ggupta2005.hashnode.dev/different-ways-of-getting-local-python-version)
+- [Decoding dependencies of your python package](https://ggupta2005.hashnode.dev/decoding-dependencies-of-your-python-package)
+
 
 ## CI/CD
 - [Bootstrap Github workflows for your python project](https://ggupta2005.hashnode.dev/bootstrap-github-workflows-for-your-python-project)
