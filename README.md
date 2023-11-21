@@ -3,7 +3,7 @@ I currently work on developing responsible AI tools in open source and Azure Mac
 Some of the other technical articles that I have written are below:-
 
 ## Python
-- [Optimizing pytest runtime](https://ggupta2005.hashnode.dev/optimizing-test-runtime-using-pytest)
+- [Optimizing pytest runtime](https://ggupta2005.hashnode.dev/optimizing-test-runtime-using-pytest1)
 - [Different ways of getting python version](https://ggupta2005.hashnode.dev/different-ways-of-getting-local-python-version)
 - [Decoding dependencies of your python package](https://ggupta2005.hashnode.dev/decoding-dependencies-of-your-python-package)
 
