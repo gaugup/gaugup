@@ -19,6 +19,8 @@ Some of the other technical articles that I have written are below:-
 
 ## Navigating software engineering career
 - [Code review: Best practices for code submitters](https://ggupta2005.hashnode.dev/code-review-best-practices-for-code-submitters)
+- [Leverage check-in meetings with your manager](https://ggupta2005.hashnode.dev/leverage-check-in-meetings-with-your-manager)
+
 
 ## Interviews
 - [Hiring right candidates in software engineering roles](https://ggupta2005.hashnode.dev/hiring-right-candidates-in-software-engineering-roles)
