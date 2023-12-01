@@ -15,7 +15,7 @@ Some of the other technical articles that I have written are below:-
 ## Software Design and Architecture
 - [Knowing the data in designing software systems](https://ggupta2005.hashnode.dev/knowing-the-data-in-designing-software-systems)
 - [Software from the prespective of the users](https://ggupta2005.hashnode.dev/software-from-the-prespective-of-the-users)
-
+- [Writing robust test cases](https://ggupta2005.hashnode.dev/writing-robust-test-cases)
 
 ## Navigating software engineering career
 - [Code review: Best practices for code submitters](https://ggupta2005.hashnode.dev/code-review-best-practices-for-code-submitters)
