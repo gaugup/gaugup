@@ -6,6 +6,7 @@ Some of the other technical articles that I have written are below:-
 - [Optimizing pytest runtime](https://ggupta2005.hashnode.dev/optimizing-test-runtime-using-pytest)
 - [Different ways of getting python version](https://ggupta2005.hashnode.dev/different-ways-of-getting-local-python-version)
 - [Decoding dependencies of your python package](https://ggupta2005.hashnode.dev/decoding-dependencies-of-your-python-package)
+- [A Guide to Managing Python Packages with Command Line Utilities](https://ggupta2005.hashnode.dev/a-guide-to-managing-python-packages-with-command-line-utilities)
 
 
 ## CI/CD
