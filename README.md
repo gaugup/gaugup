@@ -7,6 +7,7 @@ Some of the other technical articles that I have written are below:-
 - [Different ways of getting python version](https://ggupta2005.hashnode.dev/different-ways-of-getting-local-python-version)
 - [Decoding dependencies of your python package](https://ggupta2005.hashnode.dev/decoding-dependencies-of-your-python-package)
 - [A Guide to Managing Python Packages with Command Line Utilities](https://ggupta2005.hashnode.dev/a-guide-to-managing-python-packages-with-command-line-utilities)
+- [Mastering Conda Environments: A Comprehensive Guide for Python Development](https://ggupta2005.hashnode.dev/mastering-conda-environments-a-comprehensive-guide-for-python-development)
 
 
 ## CI/CD
