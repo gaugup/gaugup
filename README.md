@@ -8,7 +8,7 @@ Some of the other technical articles that I have written are below:-
 - [Decoding dependencies of your python package](https://ggupta2005.hashnode.dev/decoding-dependencies-of-your-python-package)
 - [A Guide to Managing Python Packages with Command Line Utilities](https://ggupta2005.hashnode.dev/a-guide-to-managing-python-packages-with-command-line-utilities)
 - [Mastering Conda Environments: A Comprehensive Guide for Python Development](https://ggupta2005.hashnode.dev/mastering-conda-environments-a-comprehensive-guide-for-python-development)
-
+- [Decoding Conda: A Deep Dive into Python Environment Snapshots with YAML Files](https://ggupta2005.hashnode.dev/decoding-conda-a-deep-dive-into-python-environment-snapshots-with-yaml-files)
 
 ## CI/CD
 - [Bootstrap Github workflows for your python project](https://ggupta2005.hashnode.dev/bootstrap-github-workflows-for-your-python-project)
